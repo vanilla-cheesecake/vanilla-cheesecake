@@ -7,7 +7,6 @@
 
 
 ## About me
-_I am a Tech enthusiast and a Full Stack Software Developer  <img src="https://media.giphy.com/media/emLvGusozTtJ9Jn6QA/giphy.gif" width="20">._
 
 
 
