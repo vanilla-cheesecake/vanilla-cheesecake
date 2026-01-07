@@ -1,6 +1,6 @@
  <div align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/></div>
  <h1 align="center">
-  Hey there, my name's LLOYD
+ Lloyd Golez
  <span></span>
 </h1>
 
